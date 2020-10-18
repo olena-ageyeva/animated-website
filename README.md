@@ -1,5 +1,9 @@
 # Animated Website
 
+[Live Demo](https://olena-ageyeva.github.io/animated-website/)
+
+![Preview](./img/preview.gif)
+
 **Resources:**
 
 1. [Creative Tim](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
