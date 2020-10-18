@@ -2,7 +2,7 @@
 
 [Live Demo](https://olena-ageyeva.github.io/animated-website/)
 
-![Preview](./img/preview.gif)
+![Preview](./preview.gif)
 
 **Resources:**
 
